@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Axim
 
-<!--
-**azim2606/azim2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer currently working on web projects and learning more every day.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+![Axim's GitHub stats](https://github-readme-stats.vercel.app/api?username=azim2606&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim2606&layout=compact&theme=gruvbox)
+
+## 🌱 Currently
+- Working on my **Star Wars Portfolio**
+- Exploring Vue, Tailwind, and Firebase
+- Posting coding content & guides
+
+## 📫 Contact Me
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Portfolio: [Coming Soon]
+
+---
+
+> "Do or do not, there is no try." – Yoda
