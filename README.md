@@ -13,12 +13,13 @@ Welcome to my GitHub! I'm a passionate developer currently working on web projec
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim2606&layout=compact&theme=gruvbox)
 
 ## 🌱 Currently
-- Working on my **Star Wars Portfolio**
+- Working on my 
 - Exploring Vue, Tailwind, and Firebase
-- Posting coding content & guides
+
 
 ## 📫 Contact Me
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Twitter:
+- Instagram:
 - Portfolio: [Coming Soon]
 
 ---
