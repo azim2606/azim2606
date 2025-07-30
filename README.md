@@ -1,27 +1,44 @@
-# 👋 Hi, I'm Axim
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/6BFxIf5.png" alt="Third Impact" width="600"/>
+</p>
 
-Welcome to my GitHub! I'm a passionate developer currently working on web projects and learning more every day.
+<h1 align="center">🧬 azim2606 // Third Impact Protocol 🧬</h1>
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
-
-## 📈 Stats
-![Axim's GitHub stats](https://github-readme-stats.vercel.app/api?username=azim2606&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim2606&layout=compact&theme=gruvbox)
-
-## 🌱 Currently
-- Working on my 
-- Exploring Vue, Tailwind, and Firebase
-
-
-## 📫 Contact Me
-- Twitter:
-- Instagram:
-- Portfolio: [Coming Soon]
+<p align="center"><i>"God's in his heaven, all's right with the world."</i></p>
 
 ---
 
-> "Do or do not, there is no try." – Yoda
+### ⚠️ Protocol Status
+
+- 🧠 Codename: AZIM-26
+- 🧬 Classification: Developer / Data Analyst / Meme Engineer
+- 🪐 Base: [Brunei] Earth | Nerv Node SEA
+
+---
+
+### 👁 Currently Watching the End of...
+
+- 💻 Building: 🧑‍🍳 Restaurant Staff Scheduler
+- 📊 Experimenting: Data Analysis in Pandas / Google Colab
+- 🧪 Deploying: BonerPlusPlus (meme language)
+- 🧠 Learning: OOP, APIs, Visualizations, Vue.js
+
+---
+
+### 🧰 Weapons Deployed
+
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D00000)
+![Vue.js](https://img.shields.io/badge/-Vue-0A0A0A?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Pandas](https://img.shields.io/badge/-Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/-Google_Colab-0A0A0A?style=for-the-badge&logo=google-colab&logoColor=F9AB00)
+
+---
+
+### 🔒 Initiate Terminal Logs
+
+```bash
+> azim2606 --version
+> status: ███████▒▒▒  77%
+> alignment: chaotic neutral
+> host: colab | github | gdrive
