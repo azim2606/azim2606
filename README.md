@@ -64,7 +64,7 @@ Welcome to my GitHub! I’m a full‑stack developer and AI tinkerer, building p
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/azim-omar](#) *(update link)*
-* **Email:** [yourname@email.com](#) *(update)*
+* **Email:** [azimhao@gmail.com](#) *(update)*
 * **Portfolio:** Coming soon!
 
 ---
